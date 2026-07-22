@@ -1,3 +1,4 @@
+import os
 from contextlib import asynccontextmanager
 from io import BytesIO
 
@@ -7,7 +8,7 @@ from fastapi.staticfiles import StaticFiles
 from PIL import Image
 from ultralytics import YOLO
 
-MODEL_PATH = "best1.pt"
+MODEL_PATH = os.environ.get("MODEL_PATH", "best1.pt")
 
 # This dict holds the model so it is loaded ONCE (at startup),
 # not on every request -> fast + consistent responses.
