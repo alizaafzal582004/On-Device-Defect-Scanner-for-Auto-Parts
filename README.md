@@ -52,19 +52,20 @@ Powered by **YOLOv11 Nano**, **FastAPI**, **OpenCV**, and **ONNX Runtime**, the 
 
 <p align="center">
 
-**Add your demo vedio**
+**Demo vedio**
 
-<img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/8eb654d9-1a09-4415-9a6d-04c01a79a107" />
+https://drive.google.com/file/d/1YqviTWZhLUgpVi8F2Zepmzzs4dhcNQY7/view?usp=sharing
+
 
 </p>
 
 ---
 
-# 📸 Sample Detection
+# 📸 
 
 <p align="center">
-
-(Add prediction screenshot)
+ 
+<img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/8eb654d9-1a09-4415-9a6d-04c01a79a107" />
 
 </p>
 
